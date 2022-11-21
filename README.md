@@ -1,7 +1,7 @@
 # Test-Selenium
 This is a project for testing authorization on the site https://www.saucedemo.com /. The folder contains test cases and bug report.
 -----------------------------------------------------------------------------------------------------------------------------
-Automated tests are written for the corresponding test cases. They can be viewed in the file "TestKeys.pdf".
+Automated tests are written for the corresponding test cases. They can be viewed in the file "TestCase.pdf".
 A bug report was filed for a test that failed. it is in the file "BagReport.pdf".
 -----------------------------------------------------------------------------------------------------------------------------
 Logins and passwords of users are presented on the main page of the site. 
